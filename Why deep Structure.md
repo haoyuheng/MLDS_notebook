@@ -8,12 +8,12 @@ typora-copy-images-to: img
 
  **Given a shallow network structure with one hidden layer with ReLU activation and linear output**
 
-![1-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-1.png)
+![1-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-1.png?raw=true)
 
-**Given a L-Lipschitz function **$f^*$
+**Given a L-Lipschitz function $f^*$**
 
 Lipschitz（利普希茨）连续定义： 
-有函数$f(x)$，如果存在一个常量L，使得对$f(x)$定义域上（可为实数也可以为复数）的任意两个值满足如下条件： 
+有函数$f(x)$，如果存在一个常量L，使得对$f(x)​$定义域上（可为实数也可以为复数）的任意两个值满足如下条件： 
 $$
 |f（x_1）-f(x_2)|\leq L*|x_1-x_2|
 $$
@@ -32,7 +32,7 @@ $f\epsilon N(K)$：The function space defined by the network with K neurons.
 The difference between$f(x)$ and $𝑓
 ^∗( 𝑥)$ is smaller than $\varepsilon$
 
-![1-2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-2.png)
+![1-2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-2.png?raw=true)
 
 **So $2L/\varepsilon$ Relu neurons shallow network can fit any  L-Lipschitz function.**
 

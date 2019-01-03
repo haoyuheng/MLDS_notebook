@@ -4,6 +4,8 @@ Machine Learning and having it Deep and Structured
 
 *课程地址：[Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)*
 
+因为gitHub不支持laTeX公式，所以建议clone之后使用Typora读取。
+
 1、[Why Deep Structure？](https://github.com/haoyuheng/MLDS_notebook/blob/master/Why%20deep%20Structure.md)
 
 2、[Optimization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Optimization.md)
@@ -20,7 +22,7 @@ Machine Learning and having it Deep and Structured
 
 8、Deep Reinforcement Learning
 
-知识框架：![0-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/0-1.png)
+知识框架：![0-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/0-1.png?raw=true)
 
 | Theory 1：Expressiveness     | • A network structure defines a function set<br/>• Is deep better than shallow? |
 | ---------------------------- | :----------------------------------------------------------- |
