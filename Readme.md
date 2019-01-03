@@ -20,10 +20,10 @@ Machine Learning and having it Deep and Structured
 
 8、Deep Reinforcement Learning
 
-知识框架：![0-1](/home/pczx/图片/0-1.png)
+知识框架：![0-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/0-1.png)
 
 | Theory 1：Expressiveness     | • A network structure defines a function set<br/>• Is deep better than shallow? |
-| :--------------------------- | ------------------------------------------------------------ |
+| ---------------------------- | ------------------------------------------------------------ |
 | **Theory 2: Optimization**   | **• How can we optimize by gradient descent?<br/>• There are local minima ……** |
 | **Theory 3: Generalization** | **• Why deep network does not overfit?<br/>• Although it can ……** |
 
