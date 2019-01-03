@@ -69,20 +69,20 @@ Skip Connection
 
 ### Conclusion
 
-###### • Deep linear network is not convex, but all the local minima are global minima.
+Deep linear network is not convex, but all the local minima are global minima.
 
-• 	There are saddle points which are hard to escape
+​	• There are saddle points which are hard to escape
 
-###### • Deep network has local minima.
+ Deep network has local minima.
 
-•	 We need more theory in the future
+​	• We need more theory in the future
 
-###### • Conjecture:
+ Conjecture:
 
-• 	When training a larger network, it is rare to meet local minima.
-• 	All local minima are almost as good as global
+​	• When training a larger network, it is rare to meet local minima.
+​	• All local minima are almost as good as global
 
-###### • We can try to understand the error surface by visualization.
+We can try to understand the error surface by visualization.
 
-•	 The error surface is not as complexed as imagined.
+​	• The error surface is not as complexed as imagined.
 
