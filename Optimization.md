@@ -25,7 +25,7 @@ Hessian Matrix的特征值其实就是对应的二阶导数，在特定的方向
 
 如下图所示：
 
-![](https://img-blog.csdn.net/20170911121652806?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuc3J5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/7.png)
 
 如果Hessian的特征值中至少一个是正的，一个是负的，那么x是f某个横截面的局部极大值，又是另一个横截面的局部极小值，则这个可能就是Saddle Point （鞍点）了。
 
