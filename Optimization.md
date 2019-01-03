@@ -1,3 +1,8 @@
+---
+typora-root-url: img
+typora-copy-images-to: img
+---
+
 ## Deep Learning 
 
 ### Optimization
@@ -6,7 +11,11 @@
 
 Critical Point包括: Local minima / Local maxima / Saddle Point（**鞍点**）
 
+![5](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/5.png)
+
 Hessian Matrix的特征值其实就是对应的二阶导数，在特定的方向d的二阶导数我们可以写成 dtHd（因为H是一个实对称矩阵）。
+
+![6](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/6.png)
 
 通过检测Hessian的特征值来判断该临界点是一个Local minima / Local maxima / Saddle Point（**鞍点**）。
 
@@ -44,21 +53,17 @@ The Relu Network has local minima.
 
 *Almost all local minimum have very similar loss to the global optimum, and hence finding a local minimum is good enough.*
 
-![1](/home/pczx/图片/1.png)
+![1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1.png)
 
 #### 5、Empirical about Deep Learning——Geometry of Loss Surfaces
 
-Training Processing: Different initialization / different strategies usually lead to similar loss (there are some exceptions). ![2](/home/pczx/图片/2.png)
+Training Processing: Different initialization / different strategies usually lead to similar loss (there are some exceptions). ![2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/2.png)
 
-Batch Normalization![3](/home/pczx/图片/3.png)
+Batch Normalization![3](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/3.png)
 
 Skip Connection
 
-![4](/home/pczx/图片/4.png)
-
-
-
-
+![4](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/4.png)
 
 [Geometry of Neural Network Loss Surfaces via Random Matrix Theory](https://ai.google/research/pubs/pub46120)
 
