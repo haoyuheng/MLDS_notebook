@@ -8,7 +8,7 @@ typora-copy-images-to: img
 
  **Given a shallow network structure with one hidden layer with ReLU activation and linear output**
 
-![1-1](/home/MLDS_notebook/img/1-1.png)
+![1-1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-1.png)
 
 **Given a L-Lipschitz function **$f^*$
 
