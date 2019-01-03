@@ -14,7 +14,9 @@ typora-copy-images-to: img
 
 Lipschitz（利普希茨）连续定义： 
 有函数$f(x)$，如果存在一个常量L，使得对$f(x)$定义域上（可为实数也可以为复数）的任意两个值满足如下条件： 
-<a href="https://www.codecogs.com/eqnedit.php?latex=|f(x_1)-f(x_2)|\leq&space;L*|x_1-x_2|" target="_blank"><img src="https://latex.codecogs.com/gif.latex?|f(x_1)-f(x_2)|\leq&space;L*|x_1-x_2|" title="|f(x_1)-f(x_2)|\leq L*|x_1-x_2|" /></a>
+
+<br><a align="center" href="https://www.codecogs.com/eqnedit.php?latex=|f(x_1)-f(x_2)|\leq&space;L*|x_1-x_2|" target="_blank"><img src="https://latex.codecogs.com/gif.latex?|f(x_1)-f(x_2)|\leq&space;L*|x_1-x_2|" title="|f(x_1)-f(x_2)|\leq L*|x_1-x_2|" /></a>
+
 那么称函数$f(x)$满足Lipschitz连续条件，并称L为$f(x)$的Lipschitz常数。 
 
 Lipschitz连续比一致连续要强。它限制了函数的局部变动幅度不能超过某常量。
