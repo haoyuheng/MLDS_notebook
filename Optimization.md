@@ -1,8 +1,3 @@
----
-typora-root-url: img
-typora-copy-images-to: img
----
-
 ## Deep Learning 
 
 ### Optimization
