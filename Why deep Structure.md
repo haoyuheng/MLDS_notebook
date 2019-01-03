@@ -39,13 +39,15 @@ The difference between$f(x)$ and $𝑓
 
 #### 2、Potential of Deep
 
-![1-4](/home/MLDS_notebook/img/1-4.png)
+![1-5](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-5.png?raw=true)
+
+![1-4](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-4.png?raw=true)
 
 **If K is width, H is depth . We can have at least $K^H $pieces**
 
 Depth has much larger influence than width.
 
-也就是说当NN的layer的层数为H，每一层有K个Neural的时候，NN可以表示一个$K^H $pieces的分段函数。
+也就是说当NN的layer的层数为H，每一层有K个Neural的时候，NN可以表示一个有$K^H $pieces的分段函数。
 
 所以Depth的对NN表示能力的影响要大于Width。
 
