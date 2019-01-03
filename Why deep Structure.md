@@ -39,6 +39,10 @@ The difference between$f(x)$ and $𝑓
 
 #### 2、Potential of Deep
 
+**If K is width, H is depth . We can have at least $K^H $pieces**
 
+Depth has much larger influence than width.
 
 #### 3、Is Deep better than Shallow?
+
+![1-3](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-3.png?raw=true)
