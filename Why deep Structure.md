@@ -32,7 +32,7 @@ $f\epsilon N(K)$：The function space defined by the network with K neurons.
 The difference between$f(x)$ and $𝑓
 ^∗( 𝑥)$ is smaller than $\varepsilon$
 
-![1-2](/home/MLDS_notebook/img/1-2.png)
+![1-2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-2.png)
 
 **So $2L/\varepsilon$ Relu neurons shallow network can fit any  L-Lipschitz function.**
 

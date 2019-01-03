@@ -4,7 +4,7 @@ Machine Learning and having it Deep and Structured
 
 *课程地址：[Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)*
 
-1、Why Deep Structure？
+1、[Why Deep Structure？](https://github.com/haoyuheng/MLDS_notebook/blob/master/Why%20deep%20Structure.md)
 
 2、[Optimization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Optimization.md)
 
