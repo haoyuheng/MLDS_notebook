@@ -29,8 +29,8 @@ $$
 $$
 $f\epsilon N(K)$：The function space defined by the network with K neurons.
 
-The difference between$f(x)$ and $𝑓
-^∗( 𝑥)$ is smaller than $\varepsilon$
+The difference between$f(x)​$ and $𝑓
+^∗( 𝑥)​$ is smaller than $\varepsilon​$
 
 ![1-2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-2.png?raw=true)
 

@@ -1,5 +1,3 @@
-## Deep Learning 
-
 ### Optimization
 
 #### 1、When Gradient is Zero?
