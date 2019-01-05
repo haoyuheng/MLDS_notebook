@@ -1,6 +1,6 @@
-## Generalization（泛化）
+## 3	Generalization（泛化）
 
-### Generalization Ability
+### 3.1		Generalization Ability
 
 **Generalization Gap**:  difference between training error and testing error
 
@@ -23,10 +23,12 @@
 **Concluding Remarks**
 
 • The capacity of deep model is large.
+
 • However, it does not overfit!
+
 • The reason is not clear yet.
 
-### Indicator of Generalization
+### 3.2		Indicator of Generalization
 
 #### Sensitivity
 
@@ -87,5 +89,7 @@ Regularization可以平滑𝑓。
 **Concluding Remarks**
 
 • Good generalization are associated with sensitivity
+
 • Good generalization are associated with flatness (?)
+
 • Understanding the indicator for generalization helps us develop algorithm in the future

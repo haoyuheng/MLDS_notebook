@@ -10,7 +10,7 @@ Machine Learning and having it Deep and Structured
 
 2、[Optimization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Optimization.md)
 
-3、Generalization
+3、[Generalization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Generalization.md)
 
 4、Computational Graph
 

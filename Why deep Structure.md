@@ -2,9 +2,9 @@
 typora-copy-images-to: img
 ---
 
-### Why Deep Structure?
+### 1	Why Deep Structure?
 
-#### 1、Can shallow network fit any function? 
+#### 1.1		Can shallow network fit any function? 
 
  **Given a shallow network structure with one hidden layer with ReLU activation and linear output**
 
@@ -36,7 +36,7 @@ The difference between$f(x)​$ and $𝑓
 
 **So $2L/\varepsilon$ Relu neurons shallow network can fit any  L-Lipschitz function.**
 
-#### 2、Potential of Deep
+#### 1.2		Potential of Deep
 
 ![1-5](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-5.png?raw=true)
 
@@ -50,6 +50,6 @@ Depth has much larger influence than width.
 
 所以Depth的对NN表示能力的影响要大于Width。
 
-#### 3、Is Deep better than Shallow?
+#### 1.3		Is Deep better than Shallow?
 
 ![1-3](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1-3.png?raw=true)

@@ -1,6 +1,6 @@
-### Optimization
+### 2	Optimization
 
-#### 1、When Gradient is Zero?
+#### 2.1		When Gradient is Zero?
 
 Critical Point包括: Local minima / Local maxima / Saddle Point（**鞍点**）
 
@@ -26,7 +26,7 @@ Hessian Matrix的特征值其实就是对应的二阶导数，在特定的方向
 
 
 
-#### 2、Deep Linear Network
+#### 2.2		Deep Linear Network
 
 **线性多层网络**的所有局部极小值(local minima)是全局最小(global minimum)，也就说所有局部极小值的目标函数值是一样的
 
@@ -36,19 +36,19 @@ Hessian Matrix的特征值其实就是对应的二阶导数，在特定的方向
 
 
 
-#### 3、Non-linear  Deep Network ： Does it have Local Minima?
+#### 2.3		Non-linear  Deep Network ： Does it have Local Minima?
 
 The Relu Network has local minima.
 
 *"Blind Spot" of Relu: 所有的neural的output都是0, always be local minima*
 
-#### 4、Conjecture about Deep Learning——Geometry of Loss Surfaces
+#### 2.4		Conjecture about Deep Learning——Geometry of Loss Surfaces
 
 *Almost all local minimum have very similar loss to the global optimum, and hence finding a local minimum is good enough.*
 
 ![1](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/1.png?raw=true)
 
-#### 5、Empirical about Deep Learning——Geometry of Loss Surfaces
+#### 2.5 	Empirical about Deep Learning——Geometry of Loss Surfaces
 
 Training Processing: Different initialization / different strategies usually lead to similar loss (there are some exceptions). ![2](https://github.com/haoyuheng/MLDS_notebook/blob/master/img/2.png?raw=true)
 
