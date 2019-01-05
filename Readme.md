@@ -6,11 +6,11 @@ Machine Learning and having it Deep and Structured
 
 因为gitHub不支持laTeX公式，所以建议clone之后使用Typora读取。
 
-1、[Why Deep Structure？](https://github.com/haoyuheng/MLDS_notebook/blob/master/Why%20deep%20Structure.md)
+1、[Why Deep Structure？](https://github.com/haoyuheng/MLDS_notebook/blob/master/1Why%20deep%20Structure.md)
 
-2、[Optimization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Optimization.md)
+2、[Optimization](https://github.com/haoyuheng/MLDS_notebook/blob/master/2Optimization.md)
 
-3、[Generalization](https://github.com/haoyuheng/MLDS_notebook/blob/master/Generalization.md)
+3、[Generalization](https://github.com/haoyuheng/MLDS_notebook/blob/master/3Generalization.md)
 
 4、Computational Graph
 
