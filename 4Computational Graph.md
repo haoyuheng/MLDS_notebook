@@ -7,7 +7,9 @@
 ##### 4.1.1 	Computational Graphs
 
 Computational Graphs: A “language” describing a function
+
 • Node: variable (scalar, vector, tensor ……)
+
 • Edge: operation (simple function) 
 
 For example, consider the expression e=(a+b)∗(b+1).

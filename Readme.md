@@ -12,7 +12,7 @@ Machine Learning and having it Deep and Structured
 
 3、[Generalization](https://github.com/haoyuheng/MLDS_notebook/blob/master/3Generalization.md)
 
-4、Computational Graph
+4、[Computational Graph](https://github.com/haoyuheng/MLDS_notebook/blob/master/4Computational%20Graph.md)
 
 5、Special Network Structure
 
