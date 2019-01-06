@@ -1,4 +1,4 @@
-## 4	Computational Graph
+## **Gradient of Cost Function**4	Computational Graph
 
 #### 4.1 	Computational Graph and Backpropagation
 
@@ -14,7 +14,7 @@ Computational Graphs: A “language” describing a function
 
 For example, consider the expression e=(a+b)∗(b+1).
 
-![](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/tree-def.png?raw=true)
+![tree-def](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/tree-def.png?raw=true)
 
 ##### 4.1.2	Derivatives on Computational Graphs
 
@@ -55,6 +55,26 @@ So, reverse-mode differentiation, called **Backpropagation** in the context of n
 
 *If one has a function with lots of outputs, forward-mode differentiation can be much, much, much faster*
 
-#### 4.2		 Computational Graph for Feedforward Net
+#### 4.2		 Computational Graph for Feedforward Network
+
+**Feedforward Network** and **Loss Function of Feedforward Network**
+
+![4-2](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-2.png?raw=true)
+
+![4-3](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-3.png?raw=true)
+
+**Gradient of Cost Function**
+
+![4-4](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-4.png?raw=true)
 
 #### 4.3 	Computational Graph for Recurrent Network
+
+Recurrent Network** and **Loss Function of Recurrent Network**
+
+![4-6](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-6.png?raw=true)
+
+![4-5](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-5.png?raw=true)
+
+**Gradient of Cost Function**
+
+![4-7](https://github.com/haoyuheng/MLDS_notebook/raw/master/assets/4-7.png?raw=true)
