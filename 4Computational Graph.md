@@ -1,4 +1,4 @@
-## **Gradient of Cost Function**4	Computational Graph
+## 4	Computational Graph
 
 #### 4.1 	Computational Graph and Backpropagation
 

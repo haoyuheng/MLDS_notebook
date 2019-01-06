@@ -16,6 +16,14 @@ Machine Learning and having it Deep and Structured
 
 5、Special Network Structure
 
+​	5.1	[Seq-to-seq Learning](https://github.com/haoyuheng/MLDS_notebook/blob/master/5Seq-to-seq Learning.md)
+
+​	5.2	Pointer Network
+
+​	5.3	Recursive Network
+
+​	5.4	Attention-based Model
+
 6、Special Training Technology
 
 7、Generative Adversarial Network (GAN)
